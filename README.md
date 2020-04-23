@@ -1,0 +1,1 @@
+Basic learning website for GitHub Pages, in addition to high school club marketing.
